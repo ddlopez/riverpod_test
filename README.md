@@ -1,6 +1,7 @@
 # riverpod_app
 
-A new Flutter project.
+Proyecto de flutter donde se ven los varios usos de Riverpod y sus providers
+
 
 ## Getting Started
 
